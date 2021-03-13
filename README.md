@@ -28,8 +28,8 @@ Prediction:
 
 ### Hourly
 
-- MSE: 8.668927330290899e-05
 - MAE: 0.0072510442696511745
+- MSE: 8.668927330290899e-05
 
 Target:
 ![Target hourly](/img/target-hourly.png)
